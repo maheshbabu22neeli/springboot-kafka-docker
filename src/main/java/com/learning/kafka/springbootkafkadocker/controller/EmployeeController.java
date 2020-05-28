@@ -1,4 +1,4 @@
-package com.learning.kafka.springbootkafkadocker.contoller;
+package com.learning.kafka.springbootkafkadocker.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.learning.kafka.springbootkafkadocker.model.Employee;
